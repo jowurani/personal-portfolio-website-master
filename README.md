@@ -7,9 +7,8 @@ It showcases my projects, skills, and contact information in a clean, responsive
 
 ## 🌐 Live Website
 
-👉 https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+👉 https://jowurani.github.io/personal-portfolio-website-master/
 
-(Replace this with your actual GitHub Pages link)
 
 ---
 
