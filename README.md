@@ -1,31 +1,37 @@
-# Jesse O - Portfolio Website
+# Jesse O — Frontend Developer Portfolio
 
-This is my personal portfolio website built as part of my web development learning journey. It showcases my projects and skills in HTML, CSS, and JavaScript.
+This is my personal frontend developer portfolio website built using HTML, CSS, and JavaScript.  
+It showcases my projects, skills, and contact information in a clean, responsive design.
+
+---
+
+## 🌐 Live Website
+
+👉 https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+
+(Replace this with your actual GitHub Pages link)
+
+---
 
 ## 🚀 Features
 
-- Responsive layout
-- Projects section
-- Contact page
-- Dark mode toggle
+- Fully responsive layout (mobile, tablet, desktop)
+- CSS Grid project layout
+- Interactive JavaScript features:
+  - Dark / Light mode toggle
+  - Click-to-zoom project images
+  - Form submission handling
+- Clean modern UI design
+- Contact section with email + LinkedIn links
+
+---
 
 ## 🛠️ Built With
 
-- HTML
-- CSS
-- JavaScript
+- HTML5 (semantic structure)
+- CSS3 (Flexbox + CSS Grid + media queries)
+- Vanilla JavaScript (DOM interaction)
 
-## 🌍 Live Demo
+---
 
-Coming soon (will be deployed with GitHub Pages)
-
-## 📚 What I Learned
-
-- Structuring a multi-page website
-- Styling with CSS and Flexbox
-- Adding interactivity with JavaScript
-- Using Git and GitHub for version control
-
-## 📬 Contact
-
-Feel free to reach out via the contact page on the website.
+## 📂 Project Structure
